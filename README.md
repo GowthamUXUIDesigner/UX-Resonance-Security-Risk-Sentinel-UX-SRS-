@@ -1,1 +1,4 @@
-# UX-Resonance-Security-Risk-Sentinel-UX-SRS-
+streamlit
+transformers
+torch
+pandas
